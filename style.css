@@ -7,6 +7,15 @@ body {
   display: table
 }
 
+body {
+  font-family: "Roboto", Arial;
+  src: url("chrome-extension://mcgbeeipkmelnpldkobichboakdfaeon/css/Roboto-Regular.ttf");
+}
+
+font {
+  font-family: "Times New Roman";
+}
+
 p {
   display: table-cell;
   vertical-align: middle;
@@ -15,7 +24,7 @@ p {
 
 
  @font-face {
-   font-family: Roboto;
+  font-family: "Roboto";
    src: url("chrome-extension://mcgbeeipkmelnpldkobichboakdfaeon/css/Roboto-Regular.ttf");
  }
 
