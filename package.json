@@ -1,0 +1,28 @@
+{
+  "name": "soymaiku.github.io",
+  "version": "1.0.0",
+  "description": "Personal portfolio website with retro Geocities 90s aesthetic",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server",
+    "build": "echo 'Static site - no build needed'",
+    "dev": "http-server -c-1"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "geocities",
+    "retro",
+    "90s-aesthetic"
+  ],
+  "author": "Mike Andrew Abrasaldo",
+  "license": "MIT",
+  "homepage": "https://soymaiku.github.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soymaiku/soymaiku.github.io.git"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
